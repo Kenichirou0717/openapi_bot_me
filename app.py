@@ -1,4 +1,4 @@
-import openai
+
 import streamlit as st
 
 # Streamlit Community Cloudの「Secrets」からOpenAI API keyを取得
